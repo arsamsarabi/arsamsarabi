@@ -1,11 +1,11 @@
-# Hi there, I&lsquo;m Arsam! 👋
+# Hi there, I&lsquo;m Arsam! 👋🏼
 
 🧑🏻‍💻 I am a software engineer, product maker and a lifelong learner. I build new products from scratch and make ideas happen!
 
-- 💼 I'm excited to be staring my new role as a Senior Software Engineer at [Moo][moo]
-- 🚧 I’m currently rebuilding [my personal website][arsam] using NextJs and Tailwind CSS
-- 🌱 I’m learning Rust and brushing up on my VueJs
-- ⭐️ Some of my goals for 2021 are:
+- 💼 I'm excited to be staring my new role as a **Senior Software Engineer** at [**Moo**][moo]
+- 🚧 I’m currently rebuilding [**my personal website**][arsam] using **NextJs** and **Tailwind CSS**
+- 🌱 I’m learning **Rust** and brushing up on my **VueJs**
+- ⭐️ Some of my goals for **2021** are:
   - ☑️ to contribute to more Open Source projects
   - ☑️ to start writting a technical blog
 
