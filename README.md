@@ -1,16 +1,22 @@
-### Hi there 👋
+## Hi there, I&lsquo;m Arsam! 👋
 
-<!--
-**arsamsarabi/arsamsarabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧑🏻‍💻 I am a software engineer, product maker and a lifelong learner. I build new products from scratch and make ideas happen!
 
-Here are some ideas to get you started:
+- 💼 I'm excited to be staring my new role as a Senior Software Engineer at [Moo][moo]
+- 🔭 I’m currently rebuilding [my personal website][arsam] using NextJs and Tailwind CSS
+- 🌱 I’m currently brushing up on my VueJs and learning to code in Rust
+- 👯 My goal for 2021 is to contribute to more Open Source projects, and starting writting a technical blog
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Find me on 
+
+[<img src="./assets/icons/linkedin.svg" width="24px" alt="linkedin" align="left" />][linkedin]
+
+[<img src="./assets/icons/instagram.svg" width="24px" alt="instagram" align="left" />][instagram]
+
+<!-- Definitions -->
+[arsam]: https://arsam.dev
+[linkedin]: https://linkedin.com/in/arsam
+[instagram]: https://instagram.com/arsamsarabi
+[moo]: https://moo.com/uk
+
+<!-- Icon Definitions -->
