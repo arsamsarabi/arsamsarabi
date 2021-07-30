@@ -6,8 +6,8 @@
 - 🚧 I’m currently rebuilding [my personal website][arsam] using NextJs and Tailwind CSS
 - 🌱 I’m learning Rust and brushing up on my VueJs
 - ⭐️ Some of my goals for 2021 are:
-  - to contribute to more Open Source projects
-  - to start writting a technical blog
+  - ☑️ to contribute to more Open Source projects
+  - ☑️ to start writting a technical blog
 
 <br />
 <br />
