@@ -1,4 +1,5 @@
 ## Hi there, I&lsquo;m Arsam! 👋
+---
 
 🧑🏻‍💻 I am a software engineer, product maker and a lifelong learner. I build new products from scratch and make ideas happen!
 
@@ -7,14 +8,20 @@
 - 🌱 I’m currently brushing up on my VueJs and learning to code in Rust
 - 👯 My goal for 2021 is to contribute to more Open Source projects, and starting writting a technical blog
 
+<br />
+
 ### Find me on 
+---
 
 [<img src="./assets/icons/linkedin.svg" width="24px" alt="linkedin" align="left" />][linkedin]
 
 [<img src="./assets/icons/instagram.svg" width="24px" alt="instagram" align="left" />][instagram]
 
 
+<br />
+
 ## Languages and Tools
+---
 
 These are some of the languages and tools that I am currently using in my projects
 
