@@ -26,7 +26,6 @@ These are some of the languages and tools that I am currently using in my projec
 <img src="./assets/icons/mongodb.svg" width="24px" alt="mongodb" align="left" />
 <img src="./assets/icons/python.svg" width="24px" alt="python" align="left" />
 
-
 <br />
 <br />
 
@@ -35,8 +34,6 @@ These are some of the languages and tools that I am currently using in my projec
 [![Arsam's GitHub stats](https://github-readme-stats.vercel.app/api?username=arsamsarabi&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arsamsarabi&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 <br />
 <br />
@@ -53,5 +50,3 @@ These are some of the languages and tools that I am currently using in my projec
 [linkedin]: https://linkedin.com/in/arsam
 [instagram]: https://instagram.com/arsamsarabi
 [moo]: https://moo.com/uk
-
-<!-- Icon Definitions -->
