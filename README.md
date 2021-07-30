@@ -10,16 +10,6 @@
 <br />
 <br />
 
-## Find me on 
-
-[<img src="./assets/icons/linkedin.svg" width="24px" alt="linkedin" align="left" />][linkedin]
-
-[<img src="./assets/icons/instagram.svg" width="24px" alt="instagram" align="left" />][instagram]
-
-
-<br />
-<br />
-
 ## Languages and Tools
 
 These are some of the languages and tools that I am currently using in my projects
@@ -44,6 +34,16 @@ These are some of the languages and tools that I am currently using in my projec
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arsamsarabi&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+
+
+<br />
+<br />
+
+## Find me on 
+
+[<img src="./assets/icons/linkedin.svg" width="24px" alt="linkedin" align="left" />][linkedin]
+
+[<img src="./assets/icons/instagram.svg" width="24px" alt="instagram" align="left" />][instagram]
 
 
 <!-- Definitions -->
