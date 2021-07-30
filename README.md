@@ -16,15 +16,15 @@
 
 These are some of the languages and tools that I am currently using in my projects
 
-<img src="./assets/icons/typescript.svg" width="24px" alt="typescript" align="left" />
-<img src="./assets/icons/react.svg" width="24px" alt="react" align="left" />
-<img src="./assets/icons/next-js.svg" width="24px" alt="next-js" align="left" />
-<img src="./assets/icons/styledcomponents.svg" width="24px" alt="styledcomponents" align="left" />
-<img src="./assets/icons/tailwind.svg" width="24px" alt="tailwindcss" align="left" />
-<img src="./assets/icons/graphql.svg" width="24px" alt="graphql" align="left" />
-<img src="./assets/icons/jest.svg" width="24px" alt="jest" align="left" />
-<img src="./assets/icons/mongodb.svg" width="24px" alt="mongodb" align="left" />
-<img src="./assets/icons/python.svg" width="24px" alt="python" align="left" />
+[<img src="./assets/icons/typescript.svg" width="24px" alt="typescript" align="left" />][https://www.typescriptlang.org/]
+[<img src="./assets/icons/react.svg" width="24px" alt="react" align="left" />][https://reactjs.org/]
+[<img src="./assets/icons/next-js.svg" width="24px" alt="next-js" align="left" />][https://nextjs.org/]
+[<img src="./assets/icons/styledcomponents.svg" width="24px" alt="styledcomponents" align="left" />][https://styled-components.com/]
+[<img src="./assets/icons/tailwind.svg" width="24px" alt="tailwindcss" align="left" />][https://tailwindcss.com/]
+[<img src="./assets/icons/graphql.svg" width="24px" alt="graphql" align="left" />][https://graphql.org/]
+[<img src="./assets/icons/jest.svg" width="24px" alt="jest" align="left" />][https://jestjs.io/]
+[<img src="./assets/icons/mongodb.svg" width="24px" alt="mongodb" align="left" />][https://www.mongodb.com/]
+[<img src="./assets/icons/python.svg" width="24px" alt="python" align="left" />][https://www.python.org/]
 
 <br />
 <br />
