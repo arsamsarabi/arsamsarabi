@@ -1,5 +1,4 @@
-## Hi there, I&lsquo;m Arsam! 👋
----
+# Hi there, I&lsquo;m Arsam! 👋
 
 🧑🏻‍💻 I am a software engineer, product maker and a lifelong learner. I build new products from scratch and make ideas happen!
 
@@ -9,9 +8,9 @@
 - 👯 My goal for 2021 is to contribute to more Open Source projects, and starting writting a technical blog
 
 <br />
+<br />
 
-### Find me on 
----
+## Find me on 
 
 [<img src="./assets/icons/linkedin.svg" width="24px" alt="linkedin" align="left" />][linkedin]
 
@@ -19,9 +18,9 @@
 
 
 <br />
+<br />
 
 ## Languages and Tools
----
 
 These are some of the languages and tools that I am currently using in my projects
 
@@ -34,6 +33,18 @@ These are some of the languages and tools that I am currently using in my projec
 <img src="./assets/icons/jest.svg" width="24px" alt="jest" align="left" />
 <img src="./assets/icons/mongodb.svg" width="24px" alt="mongodb" align="left" />
 <img src="./assets/icons/python.svg" width="24px" alt="python" align="left" />
+
+
+<br />
+<br />
+
+## Github Stats
+
+[![Arsam's GitHub stats](https://github-readme-stats.vercel.app/api?username=arsamsarabi&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arsamsarabi&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!-- Definitions -->
 [arsam]: https://arsam.dev
