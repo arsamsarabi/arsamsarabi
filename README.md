@@ -4,7 +4,7 @@
 
 - 💼 I'm excited to be staring my new role as a Senior Software Engineer at [Moo][moo]
 - 🔭 I’m currently rebuilding [my personal website][arsam] using NextJs and Tailwind CSS
-- 🌱 I’m currently brushing up on my VueJs and learning to code in Rust
+- 🌱 I’m learning Rust and brushing up on my VueJs
 - 👯 My goal for 2021 is to contribute to more Open Source projects, and starting writting a technical blog
 
 <br />
