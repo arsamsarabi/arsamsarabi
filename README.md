@@ -76,7 +76,7 @@ I am a software engineer, product maker and a lifelong learner. I build new prod
 <br />
 <hr />
 
-## Last 5 Books I've Read 🤓
+## Last 5 Books I've Read 📚
 <!-- GOODREADS-LIST:START -->
 - [Sh*t My Dad Says](https://www.goodreads.com/review/show/2751597721?utm_medium=api&utm_source=rss) by Justin Halpern (⭐️4.02)
 - [Artemis](https://www.goodreads.com/review/show/2356332144?utm_medium=api&utm_source=rss) by Andy Weir (⭐️3.63)
@@ -88,7 +88,7 @@ I am a software engineer, product maker and a lifelong learner. I build new prod
 <br />
 <hr />
 
-## Some of my latest photos on instagram 📸
+## Some of my latest Instagram photos 📸
 
 [<img style="margin:8px" src="https://instagram.flhr10-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/194698229_2702209166736413_1499227878383417092_n.jpg?_nc_ht=instagram.flhr10-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=qnjPRCYDzYIAX9fuQ_O&edm=ABfd0MgBAAAA&ccb=7-4&oh=6086d080402698a28d9f448c4d65e975&oe=610A577A&_nc_sid=7bff83" width="150px" align="left" />](https://www.instagram.com/p/CPoE8gnrBCY/?utm_source=ig_web_copy_link)
 
