@@ -41,7 +41,6 @@ I am a software engineer, product maker and a lifelong learner. I build new prod
 
 ![NextJs][nextjs]
 ![ExpressJs][expressjs]
-![Rust][rust]
 ![React][react]
 ![React Native][react-native]
 ![Cypress Js][cypress]
@@ -70,6 +69,7 @@ I am a software engineer, product maker and a lifelong learner. I build new prod
 ![Figma][figma]
 ![HTML][html]
 ![RollupJs][rollup]
+<!-- ![Rust][rust] -->
 <!-- ![Google Cloud][g-cloud] -->
 <!-- ![Mac OS][mac-os] -->
 
@@ -132,7 +132,7 @@ I am a software engineer, product maker and a lifelong learner. I build new prod
 [typescript]: https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white
 [javascript]: https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black
 [python]: https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=darkgreen
-[rust]: https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white
+<!-- [rust]: https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white -->
 
 <!-- Tools -->
 [react]: https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB
