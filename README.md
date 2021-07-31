@@ -17,7 +17,7 @@ I am a software engineer, product maker and a lifelong learner. I build new prod
   - Learn **Rust**, **Go**, **AWS**
 - 👋🏼 Ask me about **React**, **Styled-Components**, *anything Frontend* 😄
 - ✉️ Reach me on **<arsamsarabi@me.com>**
-- ▶️ Hobbies 💻 📸 🎶 ⚽️ 🎲 🎮 ♟ 📚 🚴🏼‍♂️
+- ▶️ Hobbies 💻 📸 🎶 ⚽️ 🎲 🎬 🎮 ♟ 📚 🚴🏼‍♂️
 - 💬 Languages:
   - Fluent 🇬🇧 🇮🇷
   - Learning 🇪🇸
