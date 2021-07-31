@@ -26,22 +26,41 @@
 <br />
 <br />
 
-## Languages and Tools
+## Things I use to code
 
-These are some of the languages and tools that I am currently using in my projects
-
-![Typescript][typescript]
+![NextJs][nextjs]
+![ExpressJs][expressjs]
+![Rust][rust]
 ![React][react]
 ![React Native][react-native]
-![NextJs][nextjs]
 ![Cypress Js][cypress]
-![GraphQL][graphql]
-
-![Styled Components][styledcomponents]
-![Tailwind CSS][tailwind]
-![Mongo DB][mongodb]
+![VueJs][vuejs]
+![Svelte][svelte]
+![Apollo][apollo]
+![Redux][redux]
+![CSS][css]
+![Typescript][typescript]
+![Github Actions][gh-actions]
 ![Docker][docker]
+![Webpack][webpack]
+![NodeJs][nodejs]
+![Mongo DB][mongodb]
+![Tailwind CSS][tailwind]
+![Netlify][netlify]
+![Javascript][javascript]
+![Python][python]
+![Prettier][prettier]
+![Styled Components][styledcomponents]
+![Sass][sass]
+![GraphQL][graphql]
+![NestJs][nestjs]
+![NPM][npm]
+![Git][git]
 ![Figma][figma]
+![HTML][html]
+![RollupJs][rollup]
+<!-- ![Google Cloud][g-cloud] -->
+<!-- ![Mac OS][mac-os] -->
 
 <br />
 <br />
@@ -76,43 +95,55 @@ These are some of the languages and tools that I am currently using in my projec
 [a-coffee]: https://buymeacoffee.com/arsam
 
 <!-- Languages -->
-[typescript]: https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
-<!-- [javascript]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-[python]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-[rust]: https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white -->
+[typescript]: https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white
+[javascript]: https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black
+[python]: https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=darkgreen
+[rust]: https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white
 
 <!-- Tools -->
-[react]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[react-native]: https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-<!-- [nodejs]: https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white -->
-[nextjs]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[styledcomponents]: https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white
-<!-- [sass]: https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white -->
-[tailwind]: https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
-[graphql]: https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white
-<!-- [svelte]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00 -->
-<!-- [vuejs]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D -->
-<!-- [jest]: https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white -->
-[mongodb]: https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
-<!-- [expressjs]: https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white -->
-[docker]: https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white
-[cypress]: https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white
-<!-- [netlify]: https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white
-[gh-actions]: https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white
-[g-cloud]: https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white
-[mac-os]: https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white -->
+[react]: https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB
+[react-native]: https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB
+[nodejs]: https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white
+[nextjs]: https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white
+[styledcomponents]: https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white
+[sass]: https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white
+[tailwind]: https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white
+[graphql]: https://img.shields.io/badge/GraphQl-E10098?style=flat-square&logo=graphql&logoColor=white
+[svelte]: https://img.shields.io/badge/Svelte-4A4A55?style=flat-square&logo=svelte&logoColor=FF3E00
+[vuejs]: https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D
+[jest]: https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white
+[mongodb]: https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white
+[expressjs]: https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white
+[docker]: https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white
+[cypress]: https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white
+[netlify]: https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white
+[gh-actions]: https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white
+[g-cloud]: https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white
+<!-- [mac-os]: https://img.shields.io/badge/mac%20os-000000?style=flat-square&logo=apple&logoColor=white -->
 
-[figma]: https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
+[figma]: https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white
 
-[steam]: https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white
+[steam]: https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=white
 
-<!-- [youtube]: https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white
-[twitch]: https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white
-[spotify]: https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white -->
+<!-- [youtube]: https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white
+[twitch]: https://img.shields.io/badge/Twitch-9146FF?style=flat-square&logo=twitch&logoColor=white
+[spotify]: https://img.shields.io/badge/Spotify-1ED760?&style=flat-square&logo=spotify&logoColor=white -->
 
-<!-- [dodge]: https://img.shields.io/badge/dogecoin-C2A633?style=for-the-badge&logo=dogecoin&logoColor=white -->
-[coffee]: https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black
+<!-- [dodge]: https://img.shields.io/badge/dogecoin-C2A633?style=flat-square&logo=dogecoin&logoColor=white -->
+[coffee]: https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black
 
-[linkedin]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-[instagram]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-[codepen]: https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white
+[linkedin]: https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white
+[instagram]: https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white
+[codepen]: https://img.shields.io/badge/Codepen-000000?style=flat-square&logo=codepen&logoColor=white
+
+[webpack]: https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white
+[apollo]: https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white
+[redux]: https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white
+[nestjs]: https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white
+[git]: https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white
+[npm]: https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white
+[html]: https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white
+[css]: https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white
+[rollup]: https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white
+[prettier]: https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white
+
