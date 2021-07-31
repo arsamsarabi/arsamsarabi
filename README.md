@@ -90,9 +90,9 @@ I am a software engineer, product maker and a lifelong learner. I build new prod
 
 [<img style="margin:8px" src="https://instagram.flhr10-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/44290199_2213872612269905_6420416278140764845_n.jpg?_nc_ht=instagram.flhr10-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=nudgOl3HICUAX_PwdoW&edm=APU89FABAAAA&ccb=7-4&oh=22e12aa7531d6cfc7de1f82928bfd0be&oe=610B354D&_nc_sid=86f79a" width="150px" align="left" />](https://www.instagram.com/p/BqSONPcHMYN/?utm_source=ig_web_copy_link)
 
-
 <br />
 <br />
+<hr />
 
 <!-- BOOK -->
 ## Last 5 Books I've Read 🤓
