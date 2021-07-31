@@ -116,6 +116,8 @@ I am a software engineer, product maker and a lifelong learner. I build new prod
 <br />
 <br />
 <hr />
+<hr />
+<hr />
 
 ## Now listening 🎶
 
