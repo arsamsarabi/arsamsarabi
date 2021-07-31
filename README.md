@@ -15,9 +15,13 @@ I am a software engineer, product maker and a lifelong learner. I build new prod
   - Contribute to more Open Source projects
   - Start writting a technical blog
   - Learn Rust, Go, AWS
-- 💬 Ask me about React, Styled-Components, anything Frontend 😄
+- 👋🏼 Ask me about React, Styled-Components, anything Frontend 😄
 - ✉️ Reach me on <arsamsarabi@me.com>
-- ▶️ My hobbies => 💻 📸 🎶 ⚽️ 🎲 🎮 ♟ 📚 🚴🏼‍♂️
+- ▶️ Hobbies 💻 📸 🎶 ⚽️ 🎲 🎮 ♟ 📚 🚴🏼‍♂️
+- 💬 Languages:
+  - Fluent 🇬🇧 🇮🇷
+  - Learning 🇪🇸
+  - Want to learn 🇷🇺 🇮🇹
 
 <br />
 <hr />
@@ -109,6 +113,7 @@ I am a software engineer, product maker and a lifelong learner. I build new prod
 </p>
 
 
+<br />
 <br />
 <hr />
 
