@@ -101,11 +101,6 @@ I am a software engineer, product maker and a lifelong learner. I build new prod
 - [Only Human (Themis Files, #3)](https://www.goodreads.com/review/show/2375352277?utm_medium=api&utm_source=rss) by Sylvain Neuvel (⭐️3.65)
 - [Waking Gods (Themis Files, #2)](https://www.goodreads.com/review/show/2356332794?utm_medium=api&utm_source=rss) by Sylvain Neuvel (⭐️4.25)
 - [Sleeping Giants (Themis Files, #1)](https://www.goodreads.com/review/show/2375351975?utm_medium=api&utm_source=rss) by Sylvain Neuvel (⭐️3.87)
-- [Ready Player One (Ready Player One, #1)](https://www.goodreads.com/review/show/2355620753?utm_medium=api&utm_source=rss) by Ernest Cline (⭐️4.23)
-- [Norse Mythology](https://www.goodreads.com/review/show/2374536570?utm_medium=api&utm_source=rss) by Neil Gaiman (⭐️4.11)
-- [Scrum: a Breathtakingly Brief and Agile Introduction](https://www.goodreads.com/review/show/2385392930?utm_medium=api&utm_source=rss) by Chris Sims (⭐️3.95)
-- [Who Moved My Cheese?](https://www.goodreads.com/review/show/2385399189?utm_medium=api&utm_source=rss) by Spencer Johnson (⭐️3.84)
-- [The Old Man And The Sea](https://www.goodreads.com/review/show/2394140501?utm_medium=api&utm_source=rss) by Ernest Hemingway (⭐️3.8)
 <!-- GOODREADS-LIST:END -->
 
 <!-- Socials -->
