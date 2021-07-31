@@ -12,5 +12,5 @@ jobs:
       - uses: zwacky/goodreads-profile-workflow@main
         with:
           goodreads_user_id: "24682462"
-          # shelf: "currently-reading"
           shelf: "read"
+          max_books_count: "5"
