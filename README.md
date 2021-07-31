@@ -100,23 +100,17 @@ I am a software engineer, product maker and a lifelong learner. I build new prod
 
 ## Some of my latest Instagram photos 📸
 
-<p style="margin-bottom:24px">
-<img style="margin:8px" src="https://instagram.flhr10-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/194698229_2702209166736413_1499227878383417092_n.jpg?_nc_ht=instagram.flhr10-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=qnjPRCYDzYIAX9fuQ_O&edm=ABfd0MgBAAAA&ccb=7-4&oh=6086d080402698a28d9f448c4d65e975&oe=610A577A&_nc_sid=7bff83" width="150px" align="left" />
+<img style="margin:8px" src="https://instagram.flhr10-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/194698229_2702209166736413_1499227878383417092_n.jpg?_nc_ht=instagram.flhr10-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=qnjPRCYDzYIAX9fuQ_O&edm=ABfd0MgBAAAA&ccb=7-4&oh=6086d080402698a28d9f448c4d65e975&oe=610A577A&_nc_sid=7bff83" width="150px" />
 
-<img style="margin:8px" src="https://instagram.flhr10-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/118592177_615717652446925_8278415751423842719_n.jpg?_nc_ht=instagram.flhr10-2.fna.fbcdn.net&_nc_cat=101&_nc_ohc=pf2FOQCaI48AX_sPUlr&edm=ABfd0MgBAAAA&ccb=7-4&oh=07f106f87eb628f7e080694b4c347a29&oe=610A1080&_nc_sid=7bff83" width="150px" align="left" />
+<img style="margin:8px" src="https://instagram.flhr10-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/118592177_615717652446925_8278415751423842719_n.jpg?_nc_ht=instagram.flhr10-2.fna.fbcdn.net&_nc_cat=101&_nc_ohc=pf2FOQCaI48AX_sPUlr&edm=ABfd0MgBAAAA&ccb=7-4&oh=07f106f87eb628f7e080694b4c347a29&oe=610A1080&_nc_sid=7bff83" width="150px" />
 
-<img style="margin:8px" src="https://instagram.flhr10-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/57462983_2230830300337358_3318709984552316520_n.jpg?_nc_ht=instagram.flhr10-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=uNJc4NrSfGAAX_e5sYM&edm=ABfd0MgBAAAA&ccb=7-4&oh=4806a48d7e72629e591bf193bbc0ad8b&oe=610B1850&_nc_sid=7bff83" width="150px" align="left" />
+<img style="margin:8px" src="https://instagram.flhr10-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/57462983_2230830300337358_3318709984552316520_n.jpg?_nc_ht=instagram.flhr10-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=uNJc4NrSfGAAX_e5sYM&edm=ABfd0MgBAAAA&ccb=7-4&oh=4806a48d7e72629e591bf193bbc0ad8b&oe=610B1850&_nc_sid=7bff83" width="150px" />
 
-<img style="margin:8px" src="https://instagram.flhr10-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/52750271_407660576482920_8790923666778115898_n.jpg?_nc_ht=instagram.flhr10-2.fna.fbcdn.net&_nc_cat=100&_nc_ohc=U5VXQ1lgq4UAX8JdyW1&edm=ABfd0MgBAAAA&ccb=7-4&oh=de9ad0d14dc8f5f078346c63d49367af&oe=610AA047&_nc_sid=7bff83" width="150px" align="left" />
+<img style="margin:8px" src="https://instagram.flhr10-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/52750271_407660576482920_8790923666778115898_n.jpg?_nc_ht=instagram.flhr10-2.fna.fbcdn.net&_nc_cat=100&_nc_ohc=U5VXQ1lgq4UAX8JdyW1&edm=ABfd0MgBAAAA&ccb=7-4&oh=de9ad0d14dc8f5f078346c63d49367af&oe=610AA047&_nc_sid=7bff83" width="150px" />
 
-<img style="margin:8px" src="https://instagram.flhr10-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/44290199_2213872612269905_6420416278140764845_n.jpg?_nc_ht=instagram.flhr10-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=nudgOl3HICUAX_PwdoW&edm=APU89FABAAAA&ccb=7-4&oh=22e12aa7531d6cfc7de1f82928bfd0be&oe=610B354D&_nc_sid=86f79a" width="150px" align="left" />
-</p>
-
+<img style="margin:8px" src="https://instagram.flhr10-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/44290199_2213872612269905_6420416278140764845_n.jpg?_nc_ht=instagram.flhr10-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=nudgOl3HICUAX_PwdoW&edm=APU89FABAAAA&ccb=7-4&oh=22e12aa7531d6cfc7de1f82928bfd0be&oe=610B354D&_nc_sid=86f79a" width="150px" />
 
 <br />
-<br />
-<hr />
-<hr />
 <hr />
 
 ## Now listening 🎶
