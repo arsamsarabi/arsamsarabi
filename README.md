@@ -96,7 +96,7 @@ I am a software engineer, product maker and a lifelong learner. I build new prod
 
 ## Some of my latest Instagram photos 📸
 
-<p>
+<p style="margin-bottom:24px">
 <img style="margin:8px" src="https://instagram.flhr10-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/194698229_2702209166736413_1499227878383417092_n.jpg?_nc_ht=instagram.flhr10-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=qnjPRCYDzYIAX9fuQ_O&edm=ABfd0MgBAAAA&ccb=7-4&oh=6086d080402698a28d9f448c4d65e975&oe=610A577A&_nc_sid=7bff83" width="150px" align="left" />
 
 <img style="margin:8px" src="https://instagram.flhr10-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/118592177_615717652446925_8278415751423842719_n.jpg?_nc_ht=instagram.flhr10-2.fna.fbcdn.net&_nc_cat=101&_nc_ohc=pf2FOQCaI48AX_sPUlr&edm=ABfd0MgBAAAA&ccb=7-4&oh=07f106f87eb628f7e080694b4c347a29&oe=610A1080&_nc_sid=7bff83" width="150px" align="left" />
