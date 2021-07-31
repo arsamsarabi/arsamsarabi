@@ -5,15 +5,17 @@
 
 # Hi there 👋🏼
 
-I am Arsam 🧑🏻‍💻 from Oxford, UK 🇬🇧
+I am Arsam 🧑🏻‍💻 from Oxford, UK 🇬🇧 <br />
 I am a software engineer, product maker and a lifelong learner. I build new products from scratch and make ideas happen!
 
 - 💼 I'm excited to be staring my new role as a **Senior Software Engineer** at [**Moo**](https://moo.com/uk)
 - 🚧 I’m currently rebuilding [**my personal website**][a-website] using **NextJs** and **Tailwind CSS**
 - 🌱 I’m learning **Rust** and brushing up on my **VueJs**
 - ⭐️ Some of my goals for **2021** are:
-  - ☑️ to contribute to more Open Source projects
-  - ☑️ to start writting a technical blog
+  - ☑️ Contribute to more Open Source projects
+  - ☑️ Start writting a technical blog
+  - ☑️ Learn to code in Rust
+  - ☑️ Learn to code in Go
 
 <br />
 <br />
@@ -87,6 +89,12 @@ I am a software engineer, product maker and a lifelong learner. I build new prod
 
 [<img style="margin:8px" src="https://instagram.flhr10-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/44290199_2213872612269905_6420416278140764845_n.jpg?_nc_ht=instagram.flhr10-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=nudgOl3HICUAX_PwdoW&edm=APU89FABAAAA&ccb=7-4&oh=22e12aa7531d6cfc7de1f82928bfd0be&oe=610B354D&_nc_sid=86f79a" width="150px" align="left" />](https://www.instagram.com/p/BqSONPcHMYN/?utm_source=ig_web_copy_link)
 
+
+<!-- BOOK -->
+## Last 5 Books I've Read 🤓
+<!-- GOODREADS-LIST:START -->
+<!-- GOODREADS-LIST:END -->
+
 <!-- Socials -->
 [a-website]: https://arsam.dev
 [a-linkedin]: https://linkedin.com/in/arsam
@@ -118,12 +126,12 @@ I am a software engineer, product maker and a lifelong learner. I build new prod
 [cypress]: https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white
 [netlify]: https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white
 [gh-actions]: https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white
-[g-cloud]: https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white
+<!-- [g-cloud]: https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white -->
 <!-- [mac-os]: https://img.shields.io/badge/mac%20os-000000?style=flat-square&logo=apple&logoColor=white -->
 
 [figma]: https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white
 
-[steam]: https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=white
+<!-- [steam]: https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=white -->
 
 <!-- [youtube]: https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white
 [twitch]: https://img.shields.io/badge/Twitch-9146FF?style=flat-square&logo=twitch&logoColor=white
