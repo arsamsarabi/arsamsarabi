@@ -77,6 +77,20 @@ I am a software engineer, product maker and a lifelong learner. I build new prod
 
 <br />
 <br />
+<hr />
+
+## Last 5 Books I've Read 🤓
+<!-- GOODREADS-LIST:START -->
+- [Sh*t My Dad Says](https://www.goodreads.com/review/show/2751597721?utm_medium=api&utm_source=rss) by Justin Halpern (⭐️4.02)
+- [Artemis](https://www.goodreads.com/review/show/2356332144?utm_medium=api&utm_source=rss) by Andy Weir (⭐️3.63)
+- [Only Human (Themis Files, #3)](https://www.goodreads.com/review/show/2375352277?utm_medium=api&utm_source=rss) by Sylvain Neuvel (⭐️3.65)
+- [Waking Gods (Themis Files, #2)](https://www.goodreads.com/review/show/2356332794?utm_medium=api&utm_source=rss) by Sylvain Neuvel (⭐️4.25)
+- [Sleeping Giants (Themis Files, #1)](https://www.goodreads.com/review/show/2375351975?utm_medium=api&utm_source=rss) by Sylvain Neuvel (⭐️3.87)
+<!-- GOODREADS-LIST:END -->
+
+<br />
+<br />
+<hr />
 
 ## Some of my latest photos on instagram
 
@@ -89,20 +103,6 @@ I am a software engineer, product maker and a lifelong learner. I build new prod
 [<img style="margin:8px" src="https://instagram.flhr10-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/52750271_407660576482920_8790923666778115898_n.jpg?_nc_ht=instagram.flhr10-2.fna.fbcdn.net&_nc_cat=100&_nc_ohc=U5VXQ1lgq4UAX8JdyW1&edm=ABfd0MgBAAAA&ccb=7-4&oh=de9ad0d14dc8f5f078346c63d49367af&oe=610AA047&_nc_sid=7bff83" width="150px" align="left" />](https://www.instagram.com/p/BuRR-u4Hm4W/?utm_source=ig_web_copy_link)
 
 [<img style="margin:8px" src="https://instagram.flhr10-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/44290199_2213872612269905_6420416278140764845_n.jpg?_nc_ht=instagram.flhr10-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=nudgOl3HICUAX_PwdoW&edm=APU89FABAAAA&ccb=7-4&oh=22e12aa7531d6cfc7de1f82928bfd0be&oe=610B354D&_nc_sid=86f79a" width="150px" align="left" />](https://www.instagram.com/p/BqSONPcHMYN/?utm_source=ig_web_copy_link)
-
-<br />
-<br />
-<hr />
-
-<!-- BOOK -->
-## Last 5 Books I've Read 🤓
-<!-- GOODREADS-LIST:START -->
-- [Sh*t My Dad Says](https://www.goodreads.com/review/show/2751597721?utm_medium=api&utm_source=rss) by Justin Halpern (⭐️4.02)
-- [Artemis](https://www.goodreads.com/review/show/2356332144?utm_medium=api&utm_source=rss) by Andy Weir (⭐️3.63)
-- [Only Human (Themis Files, #3)](https://www.goodreads.com/review/show/2375352277?utm_medium=api&utm_source=rss) by Sylvain Neuvel (⭐️3.65)
-- [Waking Gods (Themis Files, #2)](https://www.goodreads.com/review/show/2356332794?utm_medium=api&utm_source=rss) by Sylvain Neuvel (⭐️4.25)
-- [Sleeping Giants (Themis Files, #1)](https://www.goodreads.com/review/show/2375351975?utm_medium=api&utm_source=rss) by Sylvain Neuvel (⭐️3.87)
-<!-- GOODREADS-LIST:END -->
 
 <!-- Socials -->
 [a-website]: https://arsam.dev
