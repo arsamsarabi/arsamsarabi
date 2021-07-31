@@ -5,7 +5,7 @@
 
 # Hi there 👋🏼
 
-I am Arsam 🧑🏻‍💻 from Oxford, UK 🇬🇧 <br />
+I'm Arsam 🧑🏻‍💻 from Oxford, UK 🇬🇧 <br />
 I am a software engineer, product maker and a lifelong learner. I build new products from scratch and make ideas happen!
 
 - 💼 I'm excited to be staring my new role as a **Senior Software Engineer** at [**Moo**](https://moo.com/uk)
@@ -32,7 +32,7 @@ I am a software engineer, product maker and a lifelong learner. I build new prod
 
 ![Arsam's GitHub stats](https://github-readme-stats.vercel.app/api?username=arsamsarabi&count_private=true&show_icons=true&theme=dracula)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arsamsarabi&theme=dracula&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arsamsarabi&theme=dracula)
 
 <br />
 <hr />
