@@ -31,7 +31,6 @@
 These are some of the languages and tools that I am currently using in my projects
 
 ![Typescript][typescript]
-
 ![React][react]
 ![React Native][react-native]
 ![NextJs][nextjs]
