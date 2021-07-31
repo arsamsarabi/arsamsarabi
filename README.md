@@ -1,12 +1,12 @@
-# Hi there, I&lsquo;m Arsam! 👋🏼
-
 [![Years Badge](https://badges.pufler.dev/years/arsamsarabi)][a-website]
 [![Repos Badge](https://badges.pufler.dev/repos/arsamsarabi)][a-website]
 [![Updated Badge](https://badges.pufler.dev/updated/arsamsarabi/arsamsarabi)][a-website]
 [![Visits Badge](https://badges.pufler.dev/visits/arsamsarabi/arsamsarabi)][a-website]
 
+# Hi there 👋🏼
 
-🧑🏻‍💻 I am a software engineer, product maker and a lifelong learner. I build new products from scratch and make ideas happen!
+I am Arsam 🧑🏻‍💻 from Oxford, UK 🇬🇧
+I am a software engineer, product maker and a lifelong learner. I build new products from scratch and make ideas happen!
 
 - 💼 I'm excited to be staring my new role as a **Senior Software Engineer** at [**Moo**](https://moo.com/uk)
 - 🚧 I’m currently rebuilding [**my personal website**][a-website] using **NextJs** and **Tailwind CSS**
