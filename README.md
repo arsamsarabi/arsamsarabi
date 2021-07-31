@@ -12,11 +12,11 @@ I am a software engineer, product maker and a lifelong learner. I build new prod
 - 🚧 I’m currently rebuilding [**my personal website**][a-website] using **NextJs** and **Tailwind CSS**
 - 🌱 I’m learning **Rust** and brushing up on my **VueJs**
 - ⭐️ Some of my goals for **2021** are:
-  - Contribute to more Open Source projects
-  - Start writting a technical blog
-  - Learn Rust, Go, AWS
-- 👋🏼 Ask me about React, Styled-Components, anything Frontend 😄
-- ✉️ Reach me on <arsamsarabi@me.com>
+  - Contribute to more **Open Source** projects
+  - Start writting a technical **blog**
+  - Learn **Rust**, **Go**, **AWS**
+- 👋🏼 Ask me about **React**, **Styled-Components**, *anything Frontend* 😄
+- ✉️ Reach me on **<arsamsarabi@me.com>**
 - ▶️ Hobbies 💻 📸 🎶 ⚽️ 🎲 🎮 ♟ 📚 🚴🏼‍♂️
 - 💬 Languages:
   - Fluent 🇬🇧 🇮🇷
