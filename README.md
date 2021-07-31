@@ -28,9 +28,9 @@ I am a software engineer, product maker and a lifelong learner. I build new prod
 
 ## Github Stats 📈
 
-![Arsam's GitHub stats](https://github-readme-stats.vercel.app/api?username=arsamsarabi&count_private=true&show_icons=true&theme=dracula)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arsamsarabi&layout=compact&theme=dracula)
+
+![Arsam's GitHub stats](https://github-readme-stats.vercel.app/api?username=arsamsarabi&count_private=true&show_icons=true&theme=dracula)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arsamsarabi&theme=dracula&hide_border=true)
 
