@@ -63,12 +63,13 @@ I am a software engineer, product maker and a lifelong learner. I build new prod
 ![Styled Components][styledcomponents]
 ![Sass][sass]
 ![GraphQL][graphql]
-![NestJs][nestjs]
-![NPM][npm]
 ![Git][git]
 ![Figma][figma]
-![HTML][html]
 ![RollupJs][rollup]
+![HTML][html]
+![NestJs][nestjs]
+![NPM][npm]
+
 <!-- ![Rust][rust] -->
 <!-- ![Google Cloud][g-cloud] -->
 <!-- ![Mac OS][mac-os] -->
@@ -109,7 +110,7 @@ I am a software engineer, product maker and a lifelong learner. I build new prod
 
 ## Now listening 🎶
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=a3k21y7i2s68fzjhwadvunoun&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=a3k21y7i2s68fzjhwadvunoun&cover_image=true&theme=compact)
 
 <br />
 <hr />
