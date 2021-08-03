@@ -82,7 +82,7 @@ I am a software engineer, product maker and a lifelong learner. I build new prod
 [![][linkedin]][a-linkedin]
 [![][instagram]][a-instagram]
 [![][codepen]][a-codepen]
-[![][coffee]][a-coffee]
+<!-- [![][coffee]][a-coffee] -->
 
 <br />
 <hr />
@@ -108,12 +108,12 @@ I am a software engineer, product maker and a lifelong learner. I build new prod
 <br />
 <hr />
 
-## Now listening 🎶
+<!-- ## Now listening 🎶
 
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=a3k21y7i2s68fzjhwadvunoun&cover_image=true&theme=compact)
 
 <br />
-<hr />
+<hr /> -->
 
 ## Happy coding!
 
