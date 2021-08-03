@@ -81,7 +81,7 @@ I am a software engineer, product maker and a lifelong learner. I build new prod
 
 [![][linkedin]][a-linkedin]
 [![][instagram]][a-instagram]
-[![][codepen]][a-codepen]
+<!-- [![][codepen]][a-codepen] -->
 <!-- [![][coffee]][a-coffee] -->
 
 <br />
