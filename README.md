@@ -115,7 +115,7 @@ I am a software engineer, product maker and a lifelong learner. I build new prod
 <br />
 <hr /> -->
 
-## Happy coding!
+## Happy coding! 🎉
 
 ![](https://media.giphy.com/media/5ntdy5Ban1dIY/giphy.gif)
 
