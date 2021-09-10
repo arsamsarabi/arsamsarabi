@@ -6,7 +6,7 @@
 # Hi there 👋🏼
 
 I'm Arsam 🧑🏻‍💻 from Oxford, UK 🇬🇧 <br />
-I am a software engineer, product maker and a lifelong learner. I build new products from scratch and make ideas happen.
+> I am a software engineer, product maker and a lifelong learner. I build new products from scratch and make ideas happen.
 
 - 💼 I have started my new role as a **Senior Front End Software Engineer** at [**Moo**](https://moo.com/uk) 🎉
 - 🚧 I’m currently rebuilding [**my personal website**][a-website] using **NextJs** and **Tailwind CSS**
