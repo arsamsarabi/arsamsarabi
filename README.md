@@ -89,11 +89,11 @@ I'm Arsam 🧑🏻‍💻 from Oxford, UK 🇬🇧 <br />
 
 ## The last 5 Books I've Read 📚
 <!-- GOODREADS-LIST:START -->
-- [Sh*t My Dad Says](https://www.goodreads.com/review/show/2751597721?utm_medium=api&utm_source=rss) by Justin Halpern (⭐️4.02)
-- [Artemis](https://www.goodreads.com/review/show/2356332144?utm_medium=api&utm_source=rss) by Andy Weir (⭐️3.63)
-- [Only Human (Themis Files, #3)](https://www.goodreads.com/review/show/2375352277?utm_medium=api&utm_source=rss) by Sylvain Neuvel (⭐️3.65)
+- [Armada](https://www.goodreads.com/review/show/2356646608?utm_medium=api&utm_source=rss) by Ernest Cline (⭐️3.52)
+- [Artemis](https://www.goodreads.com/review/show/2356332144?utm_medium=api&utm_source=rss) by Andy Weir (⭐️3.64)
+- [Thunderhead (Arc of a Scythe, #2)](https://www.goodreads.com/review/show/2383451554?utm_medium=api&utm_source=rss) by Neal Shusterman (⭐️4.43)
+- [Scrum: a Breathtakingly Brief and Agile Introduction](https://www.goodreads.com/review/show/2385392930?utm_medium=api&utm_source=rss) by Chris  Sims (⭐️3.96)
 - [Waking Gods (Themis Files, #2)](https://www.goodreads.com/review/show/2356332794?utm_medium=api&utm_source=rss) by Sylvain Neuvel (⭐️4.25)
-- [Sleeping Giants (Themis Files, #1)](https://www.goodreads.com/review/show/2375351975?utm_medium=api&utm_source=rss) by Sylvain Neuvel (⭐️3.87)
 <!-- GOODREADS-LIST:END -->
 
 <br />
