@@ -6,22 +6,23 @@
 # Hi there 👋🏼
 
 I'm Arsam 🧑🏻‍💻 from Oxford, UK 🇬🇧 <br />
+
 > I am a software engineer, product maker and a lifelong learner. I build new products from scratch and make ideas happen.
 
-- 💼 I have started my new role as a **Senior Front End Software Engineer** at [**Moo**](https://moo.com/uk) 🎉
-- 🚧 I’m currently rebuilding [**my personal website**][a-website] using **NextJs** and **Tailwind CSS**
-- 🌱 I’m learning **Rust** and brushing up on my **VueJs**
-- ⭐️ Some of my goals for **2021** are:
+- 💼 I am a **Senior Software Engineer** at [**Moo**](https://moo.com/uk) as a
+- 🚧 Currently rebuilding [**my personal website**][a-website] using **NextJs** and **Tailwind CSS**
+- 🌱 I’m learning **Rust** and **C#**
+- ⭐️ Some of my goals for **2022** are:
   - Contribute to more **Open Source** projects
   - Start writting a technical **blog**
-  - Learn **Rust**, **Go**, **AWS**
-- 👋🏼 Ask me about **React**, **Styled-Components**, *anything Frontend* 😄
+  - Learn **Rust**, **C#**
+- 👋🏼 Ask me about **React**, **Styled-Components**, _anything Frontend_ 😄
 - ✉️ Reach me on **<arsamsarabi@me.com>**
 - ▶️ Hobbies 💻 📸 🎶 ⚽️ 🎲 🎬 🎮 ♟ 📚 🚴🏼‍♂️
 - 💬 Languages:
   - Fluent 🇬🇧 🇮🇷
-  - Learning 🇪🇸
-  - Want to learn 🇷🇺 🇮🇹 🇹🇷
+  - Learning 🇪🇸 🇷🇺 🇹🇷
+  - Want to learn 🇮🇹 🇯🇵 🇰🇷 🇸🇦
 
 <br />
 <hr />
@@ -40,6 +41,7 @@ I'm Arsam 🧑🏻‍💻 from Oxford, UK 🇬🇧 <br />
 ## Things I use to code 💻
 
 ![NextJs][nextjs]
+![Rust][rust]
 ![ExpressJs][expressjs]
 ![React][react]
 ![React Native][react-native]
@@ -70,10 +72,6 @@ I'm Arsam 🧑🏻‍💻 from Oxford, UK 🇬🇧 <br />
 ![NestJs][nestjs]
 ![NPM][npm]
 
-<!-- ![Rust][rust] -->
-<!-- ![Google Cloud][g-cloud] -->
-<!-- ![Mac OS][mac-os] -->
-
 <br />
 <hr />
 
@@ -81,18 +79,21 @@ I'm Arsam 🧑🏻‍💻 from Oxford, UK 🇬🇧 <br />
 
 [![][linkedin]][a-linkedin]
 [![][instagram]][a-instagram]
-<!-- [![][codepen]][a-codepen] -->
+[![][codepen]][a-codepen]
+
 <!-- [![][coffee]][a-coffee] -->
 
 <br />
 <hr />
 
 ## The last 5 Books I've Read 📚
+
 <!-- GOODREADS-LIST:START -->
+
 - [Armada](https://www.goodreads.com/review/show/2356646608?utm_medium=api&utm_source=rss) by Ernest Cline (⭐️3.52)
 - [Artemis](https://www.goodreads.com/review/show/2356332144?utm_medium=api&utm_source=rss) by Andy Weir (⭐️3.64)
 - [Thunderhead (Arc of a Scythe, #2)](https://www.goodreads.com/review/show/2383451554?utm_medium=api&utm_source=rss) by Neal Shusterman (⭐️4.43)
-- [Scrum: a Breathtakingly Brief and Agile Introduction](https://www.goodreads.com/review/show/2385392930?utm_medium=api&utm_source=rss) by Chris  Sims (⭐️3.96)
+- [Scrum: a Breathtakingly Brief and Agile Introduction](https://www.goodreads.com/review/show/2385392930?utm_medium=api&utm_source=rss) by Chris Sims (⭐️3.96)
 - [Waking Gods (Themis Files, #2)](https://www.goodreads.com/review/show/2356332794?utm_medium=api&utm_source=rss) by Sylvain Neuvel (⭐️4.25)
 <!-- GOODREADS-LIST:END -->
 
@@ -101,9 +102,9 @@ I'm Arsam 🧑🏻‍💻 from Oxford, UK 🇬🇧 <br />
 
 ## Some of my latest Instagram photos 📸
 
-| Moo  	| Oxford  	| Swansea  	|  WFH 	|  Arsam VS. [Alvaro](https://www.instagram.com/alvaro.ruiz15690/) 	|
-|---	|---	|---	|---	|---	|
-| <img style="margin:8px" src="./assets/images/instagram/moo.JPEG" width="150px" />  	|  <img style="margin:8px" src="./assets/images/instagram/fields.JPEG" width="150px" /> 	|  <img style="margin:8px" src="./assets/images/instagram/swansea.JPEG" width="150px" /> 	|  <img style="margin:8px" src="./assets/images/instagram/tea.JPEG" width="150px" /> 	|  <img style="margin:8px" src="./assets/images/instagram/chess.JPEG" width="150px" /> 	|
+| Córdoba                                                                               | Sevilla                                                                               | Amsterdam                                                                               | Arsam VS. [Alvaro](https://www.instagram.com/alvaro.ruiz15690/)                     | Oxford                                                                               |
+| ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| <img style="margin:8px" src="./assets/images/instagram/cordoba.JPEG" width="150px" /> | <img style="margin:8px" src="./assets/images/instagram/sevilla.JPEG" width="150px" /> | <img style="margin:8px" src="./assets/images/instagram/amsterdam.JPEG" width="150px" /> | <img style="margin:8px" src="./assets/images/instagram/chess.JPEG" width="150px" /> | <img style="margin:8px" src="./assets/images/instagram/fields.jpeg" width="150px" /> |
 
 <br />
 <hr />
@@ -119,10 +120,8 @@ I'm Arsam 🧑🏻‍💻 from Oxford, UK 🇬🇧 <br />
 
 ![](https://media.giphy.com/media/5ntdy5Ban1dIY/giphy.gif)
 
-
-
-
 <!-- Socials -->
+
 [a-website]: https://arsam.dev
 [a-linkedin]: https://linkedin.com/in/arsam
 [a-instagram]: https://instagram.com/arsamsarabi
@@ -130,12 +129,14 @@ I'm Arsam 🧑🏻‍💻 from Oxford, UK 🇬🇧 <br />
 [a-coffee]: https://buymeacoffee.com/arsam
 
 <!-- Languages -->
+
 [typescript]: https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white
 [javascript]: https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black
 [python]: https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=darkgreen
-<!-- [rust]: https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white -->
+[rust]: https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white
 
 <!-- Tools -->
+
 [react]: https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB
 [react-native]: https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB
 [nodejs]: https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white
@@ -153,9 +154,6 @@ I'm Arsam 🧑🏻‍💻 from Oxford, UK 🇬🇧 <br />
 [cypress]: https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white
 [netlify]: https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white
 [gh-actions]: https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white
-<!-- [g-cloud]: https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white -->
-<!-- [mac-os]: https://img.shields.io/badge/mac%20os-000000?style=flat-square&logo=apple&logoColor=white -->
-
 [figma]: https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white
 
 <!-- [steam]: https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=white -->
@@ -165,12 +163,11 @@ I'm Arsam 🧑🏻‍💻 from Oxford, UK 🇬🇧 <br />
 [spotify]: https://img.shields.io/badge/Spotify-1ED760?&style=flat-square&logo=spotify&logoColor=white -->
 
 <!-- [dodge]: https://img.shields.io/badge/dogecoin-C2A633?style=flat-square&logo=dogecoin&logoColor=white -->
-[coffee]: https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black
 
+[coffee]: https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black
 [linkedin]: https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white
 [instagram]: https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white
 [codepen]: https://img.shields.io/badge/Codepen-000000?style=flat-square&logo=codepen&logoColor=white
-
 [webpack]: https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white
 [apollo]: https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white
 [redux]: https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white
@@ -181,4 +178,3 @@ I'm Arsam 🧑🏻‍💻 from Oxford, UK 🇬🇧 <br />
 [css]: https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white
 [rollup]: https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white
 [prettier]: https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white
-
