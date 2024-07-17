@@ -11,18 +11,18 @@ I'm Arsam 🧑🏻‍💻 from Oxford, UK 🇬🇧 <br />
 
 - 💼 I am a **Senior Software Engineer** @ [**Moo**](https://moo.com/uk)
 - 🚧 Currently rebuilding [**my personal website**][a-website] using **NextJs** and **Tailwind CSS**
-- 🌱 I’m learning **Rust** and **C#**
-- ⭐️ Some of my goals for **2022** are:
+- 🌱 I’m learning **Rust** and **Godot**
+- ⭐️ Some of my goals for **2024** are:
   - Contribute to more **Open Source** projects
-  - Start writting a technical **blog**
-  - Learn **Rust**, **C#**
-- 👋🏼 Ask me about **React**, **Styled-Components**, _anything Frontend_ 😄
+  - Start writing a technical **blog**
+  - Learn **Rust**, **Godot**
+- 👋🏼 Ask me about **React**, **Next.js**, **Typescript**, _anything Frontend_ 😄
 - ✉️ Reach me on **<arsamsarabi@me.com>**
 - ▶️ Hobbies 💻 📸 🎶 ⚽️ 🎲 🎬 🎮 ♟ 📚 🚴🏼‍♂️
 - 💬 Languages:
   - Fluent 🇬🇧 🇮🇷
-  - Learning 🇪🇸 🇷🇺 🇹🇷
-  - Want to learn 🇮🇹 🇯🇵 🇰🇷 🇸🇦
+  - Learning 🇪🇸 🇷🇺 🇰🇷
+  - Want to learn 🇮🇹 🇬🇷 🇮🇱
 
 <br />
 <hr />
@@ -90,6 +90,8 @@ I'm Arsam 🧑🏻‍💻 from Oxford, UK 🇬🇧 <br />
 
 <!-- GOODREADS-LIST:START -->
 
+- [Fundamentals of Software Architecture](https://www.goodreads.com/book/show/44144493-fundamentals-of-software-architecture) by Mark Richards, Neal Ford (⭐️4.26)
+- [The Software Engineer's Guidebook](https://www.goodreads.com/book/show/201545491-the-software-engineer-s-guidebook) by Gergely Orosz (⭐️4.11)
 - [Armada](https://www.goodreads.com/review/show/2356646608?utm_medium=api&utm_source=rss) by Ernest Cline (⭐️3.52)
 - [Artemis](https://www.goodreads.com/review/show/2356332144?utm_medium=api&utm_source=rss) by Andy Weir (⭐️3.64)
 - [Thunderhead (Arc of a Scythe, #2)](https://www.goodreads.com/review/show/2383451554?utm_medium=api&utm_source=rss) by Neal Shusterman (⭐️4.43)
