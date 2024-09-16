@@ -5,24 +5,25 @@
 
 # Hi there 👋🏼
 
-I'm Arsam 🧑🏻‍💻 from Oxford, UK 🇬🇧 <br />
+I'm _Arsam_ 🧑🏻‍💻 from Oxford, UK 🇬🇧 <br />
 
+> [!NOTE]
 > I am a software engineer, product maker and a lifelong learner. I build new products from scratch and make ideas happen.
 
-- 💼 I am a **Senior Software Engineer** @ [**Moo**](https://moo.com/uk)
-- 🚧 Currently rebuilding [**my personal website**][a-website] using **NextJs** and **Tailwind CSS**
+- 💼 I am a **Senior Frontend Engineer** @[**ONI**](https://oni.bio)
+- 👨🏻‍💻 In my spare time these days, I publish tech related content on my blog [arsam.dev/blog](https://arsam.dev/blog), and create videos for my brand new YouTube channel [youtube.com/@CodeAlongWithArsam](https://youtube.com/@CodeAlongWithArsam) _Coming soon!_
 - 🌱 I’m learning **Rust** and **Godot**
 - ⭐️ Some of my goals for **2024** are:
   - Contribute to more **Open Source** projects
-  - Start writing a technical **blog**
-  - Learn **Rust**, **Godot**
+  - Grow my social media following on my Blog, YouTube, and Instagram
 - 👋🏼 Ask me about **React**, **Next.js**, **Typescript**, _anything Frontend_ 😄
-- ✉️ Reach me on **<arsamsarabi@me.com>**
+- ✉️ Reach me on **<me@arsam.dev>**
 - ▶️ Hobbies 💻 📸 🎶 ⚽️ 🎲 🎬 🎮 ♟ 📚 🚴🏼‍♂️
-- 💬 Languages:
-  - Fluent 🇬🇧 🇮🇷
-  - Learning 🇪🇸 🇷🇺 🇰🇷
-  - Want to learn 🇮🇹 🇬🇷 🇮🇱
+- 💬 I enjoy learning Languages!
+  - I'm fluent in 🇬🇧 🇮🇷
+  - I can speak a bit of 🇪🇸
+  - I'm learning 🇷🇺 🇮🇹
+  - I want to learn 🇰🇷 🇬🇷 🇮🇱
 
 <br />
 <hr />
@@ -38,44 +39,35 @@ I'm Arsam 🧑🏻‍💻 from Oxford, UK 🇬🇧 <br />
 <br />
 <hr />
 
-## Things I use to code 💻
+## Some of the tools I use everyday to code 💻
 
 ![NextJs][nextjs]
-![Rust][rust]
-![ExpressJs][expressjs]
 ![React][react]
 ![React Native][react-native]
 ![Cypress Js][cypress]
-![VueJs][vuejs]
 ![Svelte][svelte]
-![Apollo][apollo]
-![Redux][redux]
-![CSS][css]
 ![Typescript][typescript]
 ![Github Actions][gh-actions]
-![Docker][docker]
-![Webpack][webpack]
 ![NodeJs][nodejs]
-![Mongo DB][mongodb]
 ![Tailwind CSS][tailwind]
-![Netlify][netlify]
-![Javascript][javascript]
-![Python][python]
 ![Prettier][prettier]
-![Styled Components][styledcomponents]
-![Sass][sass]
 ![GraphQL][graphql]
 ![Git][git]
-![Figma][figma]
-![RollupJs][rollup]
-![HTML][html]
-![NestJs][nestjs]
-![NPM][npm]
 
 <br />
 <hr />
 
 ## Find me on 💬
+
+### My coding channels
+
+> [!important]
+> I'm working hard on my first few articles and videos to go on my coding YouTube and Instagram channels. Subscribe so you'll be notified when I publish them.
+
+[![][youtube]][code-youtube]
+[![][instagram]][code-instagram]
+
+### My personal channels
 
 [![][linkedin]][a-linkedin]
 [![][instagram]][a-instagram]
@@ -90,13 +82,14 @@ I'm Arsam 🧑🏻‍💻 from Oxford, UK 🇬🇧 <br />
 
 <!-- GOODREADS-LIST:START -->
 
-- [Fundamentals of Software Architecture](https://www.goodreads.com/book/show/44144493-fundamentals-of-software-architecture) by Mark Richards, Neal Ford (⭐️4.26)
-- [The Software Engineer's Guidebook](https://www.goodreads.com/book/show/201545491-the-software-engineer-s-guidebook) by Gergely Orosz (⭐️4.11)
-- [Armada](https://www.goodreads.com/review/show/2356646608?utm_medium=api&utm_source=rss) by Ernest Cline (⭐️3.52)
-- [Artemis](https://www.goodreads.com/review/show/2356332144?utm_medium=api&utm_source=rss) by Andy Weir (⭐️3.64)
-- [Thunderhead (Arc of a Scythe, #2)](https://www.goodreads.com/review/show/2383451554?utm_medium=api&utm_source=rss) by Neal Shusterman (⭐️4.43)
-- [Scrum: a Breathtakingly Brief and Agile Introduction](https://www.goodreads.com/review/show/2385392930?utm_medium=api&utm_source=rss) by Chris Sims (⭐️3.96)
-- [Waking Gods (Themis Files, #2)](https://www.goodreads.com/review/show/2356332794?utm_medium=api&utm_source=rss) by Sylvain Neuvel (⭐️4.25)
+- [Fundamentals of Software Architecture](https://www.goodreads.com/book/show/44144493-fundamentals-of-software-architecture) by Mark Richards, Neal Ford (⭐️⭐️⭐️⭐️4.26)
+- [The Software Engineer's Guidebook](https://www.goodreads.com/book/show/201545491-the-software-engineer-s-guidebook) by Gergely Orosz (⭐️⭐️⭐️⭐️4.11)
+- [Ready Player Two](https://www.goodreads.com/book/show/26082916-ready-player-two) by Ernest Cline (⭐️⭐️⭐️3.43)
+- [We Are Legion (We Are Bob)](https://www.goodreads.com/book/show/32109569-we-are-legion-we-are-bob) by Dennis E. Taylor (⭐️⭐️⭐️⭐️ 4.28)
+- [For We Are Many](https://www.goodreads.com/book/show/33395557-for-we-are-many) by Dennis E. Taylor (⭐️⭐️⭐️⭐️ 4.37)
+- [All These Worlds](https://www.goodreads.com/book/show/35506021-all-these-worlds) by Dennis E. Taylor (⭐️⭐️⭐️⭐️ 4.40)
+- [Heaven's River](https://www.goodreads.com/book/show/42950440-heaven-s-river) by Dennis E. Taylor (⭐️⭐️⭐️⭐️ 4.29)
+- [The Hitchhiker’s Guide to the Galaxy](https://www.goodreads.com/book/show/386162.The_Hitchhiker_s_Guide_to_the_Galaxy) (⭐️⭐️⭐️⭐️ 4.23)
 <!-- GOODREADS-LIST:END -->
 
 <br />
@@ -104,9 +97,10 @@ I'm Arsam 🧑🏻‍💻 from Oxford, UK 🇬🇧 <br />
 
 ## Some of my latest Instagram photos 📸
 
-| Córdoba                                                                               | Sevilla                                                                               | Amsterdam                                                                               | Arsam VS. [Alvaro](https://www.instagram.com/alvaro.ruiz15690/)                     | Oxford                                                                               |
+|
+Prague | Sevilla | Estonia | Córdoba | Sevilla |
 | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| <img style="margin:8px" src="./assets/images/instagram/cordoba.jpeg" width="150px" /> | <img style="margin:8px" src="./assets/images/instagram/sevilla.jpeg" width="150px" /> | <img style="margin:8px" src="./assets/images/instagram/amsterdam.jpeg" width="150px" /> | <img style="margin:8px" src="./assets/images/instagram/chess.JPEG" width="150px" /> | <img style="margin:8px" src="./assets/images/instagram/fields.JPEG" width="150px" /> |
+| <img style="margin:8px" src="./assets/images/instagram/prague.jpg" width="150px" /> | <img style="margin:8px" src="./assets/images/instagram/sevilla.jpg" width="150px" /> | <img style="margin:8px" src="./assets/images/instagram/estonia.jpg" width="150px" /> | <img style="margin:8px" src="./assets/images/instagram/cordoba.jpeg" width="150px" /> | <img style="margin:8px" src="./assets/images/instagram/sevilla.jpeg" width="150px" /> |
 
 <br />
 <hr />
@@ -129,6 +123,8 @@ I'm Arsam 🧑🏻‍💻 from Oxford, UK 🇬🇧 <br />
 [a-instagram]: https://instagram.com/arsamsarabi
 [a-codepen]: https://codepen.io/arsam
 [a-coffee]: https://buymeacoffee.com/arsam
+[code-youtube]: https://youtube.com/@codealongwitharsam
+[code-instagram]: https://instagram.com/codealongwitharsam
 
 <!-- Languages -->
 
@@ -160,8 +156,9 @@ I'm Arsam 🧑🏻‍💻 from Oxford, UK 🇬🇧 <br />
 
 <!-- [steam]: https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=white -->
 
-<!-- [youtube]: https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white
-[twitch]: https://img.shields.io/badge/Twitch-9146FF?style=flat-square&logo=twitch&logoColor=white
+[youtube]: https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white
+
+<!-- [twitch]: https://img.shields.io/badge/Twitch-9146FF?style=flat-square&logo=twitch&logoColor=white
 [spotify]: https://img.shields.io/badge/Spotify-1ED760?&style=flat-square&logo=spotify&logoColor=white -->
 
 <!-- [dodge]: https://img.shields.io/badge/dogecoin-C2A633?style=flat-square&logo=dogecoin&logoColor=white -->
