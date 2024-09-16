@@ -8,7 +8,7 @@
 I'm _Arsam_ 🧑🏻‍💻 from Oxford, UK 🇬🇧 <br />
 
 > [!NOTE]
-> I am a software engineer, product maker and a lifelong learner. I build new products from scratch and make ideas happen.
+> I am a Software Engineer, Content Creator and a lifelong learner. I build new products from scratch and make ideas happen.
 
 - 💼 I am a **Senior Frontend Engineer** @[**ONI**](https://oni.bio)
 - 👨🏻‍💻 In my spare time these days, I publish tech related content on my blog [arsam.dev/blog](https://arsam.dev/blog), and create videos for my brand new YouTube channel [youtube.com/@CodeAlongWithArsam](https://youtube.com/@CodeAlongWithArsam) _Coming soon!_
