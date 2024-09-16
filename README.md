@@ -46,13 +46,13 @@ I'm _Arsam_ 🧑🏻‍💻 from Oxford, UK 🇬🇧 <br />
 ![React Native][react-native]
 ![Cypress Js][cypress]
 </br >
+![Prettier][prettier]
 ![Svelte][svelte]
 ![Typescript][typescript]
 ![Github Actions][gh-actions]
-![NodeJs][nodejs]
 </br >
+![NodeJs][nodejs]
 ![Tailwind CSS][tailwind]
-![Prettier][prettier]
 ![GraphQL][graphql]
 ![Git][git]
 
