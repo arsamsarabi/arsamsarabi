@@ -99,10 +99,9 @@ I'm _Arsam_ 🧑🏻‍💻 from Oxford, UK 🇬🇧 <br />
 
 ## Some of my latest Instagram photos 📸
 
-|
-Prague | Sevilla | Estonia | Córdoba | Sevilla |
-| ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| <img style="margin:8px" src="./assets/images/instagram/prague.jpg" width="150px" /> | <img style="margin:8px" src="./assets/images/instagram/sevilla.jpg" width="150px" /> | <img style="margin:8px" src="./assets/images/instagram/estonia.jpg" width="150px" /> | <img style="margin:8px" src="./assets/images/instagram/cordoba.jpeg" width="150px" /> | <img style="margin:8px" src="./assets/images/instagram/sevilla.jpeg" width="150px" /> |
+| Prague                                                                              | Sevilla                                                                              | Estonia                                                                              | Córdoba                                                                               | Sevilla                                                                               |
+| ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| <img style="margin:8px" src="./assets/images/instagram/prague.jpg" width="150px" /> | <img style="margin:8px" src="./assets/images/instagram/seville.jpg" width="150px" /> | <img style="margin:8px" src="./assets/images/instagram/estonia.jpg" width="150px" /> | <img style="margin:8px" src="./assets/images/instagram/cordoba.jpeg" width="150px" /> | <img style="margin:8px" src="./assets/images/instagram/sevilla.jpeg" width="150px" /> |
 
 <br />
 <hr />
