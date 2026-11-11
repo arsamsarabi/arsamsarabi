@@ -5,10 +5,12 @@ on:
   workflow_dispatch:
 jobs:
   update-readme-with-goodreads-books:
-    name: Update this repo's README with what you're currently reading
+    name: Update this repo's README with recent Goodreads reads
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
       - uses: zwacky/goodreads-profile-workflow@main
         with:
           goodreads_user_id: "24682462"
