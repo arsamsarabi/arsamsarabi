@@ -17,9 +17,9 @@ Staff Software Engineer at [**ONI**](https://oni.bio) · based in Oxford, UK
 - 🌱 Learning **Rust** and **Godot**
 - 🤖 Hands-on with **AI-assisted development** (agents, copilots, workflows that actually ship)
 - 💬 Ask me about **React**, **Next.js**, **TypeScript**, and frontend architecture
-- ✉️ **me@arsam.dev**
-- 📚 Languages: fluent 🇬🇧 🇮🇷 · some 🇪🇸 · learning 🇷🇺 🇮🇹 · want 🇰🇷 🇬🇷 🇮🇱
-- 🎯 Outside work: 💻 📸 🎶 ⚽️ 🎲 🎬 🎮 ♟ 📚 🚴‍♂️
+- ✉️ **arsamsarabi@me.com**
+- 📚 Languages: fluent 🇬🇧 🇮🇷 · some 🇪🇸 · want 🇷🇺 🇮🇹
+- 🎯 Outside work: 💻 📸 🎶 ⚽️ 🎲 🎬 🎮 ♟ 📚 🚴‍♂️ 🥋
 
 <br />
 <hr />
@@ -50,18 +50,18 @@ Staff Software Engineer at [**ONI**](https://oni.bio) · based in Oxford, UK
 
 ## GitHub Stats 📈
 
-<!-- TRIAL: classic stats cluster -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arsamsarabi&layout=compact&theme=tokyonight&hide_border=true)
+<!-- TRIAL: classic stats cluster — host moved off paused github-readme-stats.vercel.app -->
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=arsamsarabi&layout=compact&theme=tokyonight&hide_border=true)
 
-![Arsam's GitHub stats](https://github-readme-stats.vercel.app/api?username=arsamsarabi&count_private=true&show_icons=true&theme=tokyonight&hide_border=true)
+![Arsam's GitHub stats](https://github-stats-extended.vercel.app/api?username=arsamsarabi&count_private=true&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=arsamsarabi&theme=tokyonight&hide_border=true)
 
-<!-- TRIAL: trophy case -->
-[![Trophy](https://github-profile-trophy.vercel.app/?username=arsamsarabi&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- TRIAL: trophy case — official vercel.app is DEPLOYMENT_DISABLED; volunteer mirror -->
+[![Trophy](https://trophy.ryglcloud.net/?username=arsamsarabi&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-<!-- TRIAL: activity graph -->
-[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arsamsarabi&theme=tokyo-night&hide_border=true)](https://github.com/arsamsarabi)
+<!-- TRIAL: activity graph — official vercel.app is disabled; community fork host -->
+[![Activity graph](https://github-act-graph.rodriaum.com/graph?username=arsamsarabi&theme=tokyo-night&hide_border=true)](https://github.com/arsamsarabi)
 
 <br />
 <hr />
