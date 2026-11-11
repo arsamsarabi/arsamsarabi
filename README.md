@@ -4,8 +4,6 @@
 [![Updated Badge](https://badges.pufler.dev/updated/arsamsarabi/arsamsarabi)][a-website]
 [![Visits Badge](https://badges.pufler.dev/visits/arsamsarabi/arsamsarabi)][a-website]
 
-<!-- TRIAL: typing SVG header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=800&color=A9B1D6&center=true&vCenter=true&width=680&lines=Staff+Software+Engineer+%40+ONI;Building+with+React%2C+TypeScript+%26+AI;Learning+Rust+%26+Godot)](https://arsam.dev)
 
 # Hi, I'm Arsam
 
