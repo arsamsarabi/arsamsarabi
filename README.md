@@ -17,7 +17,7 @@ Staff Software Engineer at [**ONI**](https://oni.bio) · based in Oxford, UK
 - 💬 Ask me about **React**, **Next.js**, **TypeScript**, and frontend architecture
 - ✉️ **arsamsarabi@me.com**
 - 📚 Languages: fluent 🇬🇧 🇮🇷 · some 🇪🇸 · want 🇷🇺 🇮🇹
-- 🎯 Outside work: 💻 📸 🎶 ⚽️ 🎲 🎬 🎮 ♟ 📚 🚴‍♂️ 🥋
+- 🎯 Outside work: 🚴‍♂️ 🥋 🏸 📸 ⚽️ 🎲 🎮 📚
 
 <br />
 <hr />
